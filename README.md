@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Marius 👋
 
 - 🔭 I’m currently studying computer science at HHU Duesseldorf
 - 🌱 I’m currently learning Java and things like Docker, Git and Spring
